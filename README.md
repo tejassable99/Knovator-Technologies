@@ -51,13 +51,13 @@ This is a simple e-commerce website built with ReactJS for the frontend and Node
 
 1. Clone the repository:
 2.Install dependencies for both Client and Server
-cd Client
-npm install
-cd Server
-npm install
-To start the backend server, navigate to the Server directory and run:
-npm run dev
-To start the frontend development server, navigate to the Client directory and run:
-npm start
+- cd Client
+- npm install
+- cd Server
+- npm install
+- To start the backend server, navigate to the Server directory and run:
+- npm run dev
+- To start the frontend development server, navigate to the Client directory and run:
+- npm start
 
 
